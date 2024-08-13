@@ -1,0 +1,30 @@
+Week 4: Programming Assignment 1
+
+Create a Python program that identifies the presence of a "saddle point" in a given matrix. A saddle point is defined as an element in the matrix that is the smallest in its row and the largest in its column. The matrix is represented as a nested list, where each nested list corresponds to a row of the matrix. The program should determine if at least one saddle point exists in the matrix. If a saddle point is found, the program/function should print 1; otherwise, it should print 0.
+
+Input Format:
+The first input is an integer r , the number of rows in the matrix.
+The second input is an integer c, the number of columns in the matrix.
+The next r lines each contain c integers, representing the elements of each row of the matrix.
+
+
+Output Format:
+The output is 1 if a saddle point exists, otherwise 0.
+
+
+Example:
+
+Input:
+
+3
+3
+2 0 3
+2 1 4
+4 2 6
+
+Output:
+1
+
+Reason:
+Element 2 in third row and second column is minimum in its row and maximum in its column.
+So, it is a saddle point.
