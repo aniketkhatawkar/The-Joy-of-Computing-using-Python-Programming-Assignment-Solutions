@@ -1,0 +1,19 @@
+Week 6: Programming Assignment 3
+
+Question
+Write a Python program that includes a recursive function named non_decreasing which takes a non-empty list L of integers as input. 
+The function should return True if the elements in the list are sorted in non-decreasing order from left to right, and False otherwise.
+
+Input Format:
+The input consists of a single line containing space-separated integers that form the list L.
+
+Output Format:
+The output consists of a single boolean value (True or False) indicating whether the list is sorted in non-decreasing order.
+
+Example:
+
+Input:
+1 2 2 3 4
+
+Output:
+True

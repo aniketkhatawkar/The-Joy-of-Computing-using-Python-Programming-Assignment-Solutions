@@ -1,0 +1,19 @@
+Week 6: Programming Assignment 1
+
+Question:
+Write a Python program that takes two positive integers a and b as input and returns their product using a recursive function. 
+The function should only use the + and - operators to calculate the product.
+
+Input Format:
+The first line of input consists of two space-separated positive integers, a and b.
+
+Output Format:
+The output consists of a single integer representing the product of a and b.
+
+Example:
+
+Input:
+3 4
+
+Output:
+12
