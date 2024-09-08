@@ -1,0 +1,23 @@
+Week 8: Programming Assignment 1
+
+Write a function that takes an integer n followed by n lines of space-separated integers, where each line represents a tuple. 
+The function should return the sum of the first elements of all tuples.
+
+Input Format:
+
+The first line contains a single integer n, which represents the number of tuples.
+The next n lines each contain two space-separated integers representing the values of the tuple.
+Output Format:
+
+A single integer representing the sum of the first elements of all tuples.
+Example:
+
+Input:
+
+3
+3 4
+1 2
+5 6
+
+Output:
+9

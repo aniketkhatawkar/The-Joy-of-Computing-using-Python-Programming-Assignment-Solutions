@@ -1,0 +1,22 @@
+Week 8: Programming Assignment 3
+
+Question:
+Write a function that takes a list of integers and an integer k. 
+The function should multiply each integer in the list by k and then return the maximum value from the resulting list.
+
+Input Format:
+
+The first line contains space-separated integers representing the list of numbers.
+The second line contains a single integer k, the multiplier.
+Output Format:
+
+Print a single integer representing the maximum value after multiplying each number by k.
+Example:
+
+Input:
+1 5 3 9
+2
+
+
+Output:
+18

@@ -1,0 +1,21 @@
+Week 8: Programming Assignment 2
+
+Question:
+Write a function that checks if two given strings are anagrams of each other considering only alphabetic characters and ignoring case. Additionally, the function should handle cases where the strings may contain spaces or punctuation, and should return the result as 1 or 0.
+
+Input Format:
+
+The first line contains a string str1 which may include alphabetic characters, spaces, and punctuation.
+The second line contains a string str2 which may also include alphabetic characters, spaces, and punctuation.
+Output Format:
+
+Print 1 if the two strings are anagrams of each other, considering only alphabetic characters and ignoring case, otherwise print 0.
+Example:
+
+Input:
+
+Astronomer
+Moon starer
+
+Output:
+1
