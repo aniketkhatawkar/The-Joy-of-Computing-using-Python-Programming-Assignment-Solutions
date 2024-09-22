@@ -1,0 +1,33 @@
+Week 10: Programming Assignment 1
+
+Question:
+
+Write a program that accepts the string `para` and a positive integer `n` as input. The program should print `1` if there is at least one word in `para` that occurs exactly `n` times, and `0` otherwise.
+
+Input Format:
+
+- The input consists of two lines.
+
+  - The first line contains the string `para`, which is a sequence of space-separated words.
+
+  - The second line contains a positive integer `n`.
+
+Output Format:
+
+- A single integer, either `1` or `0`.
+
+  - Print `1` if there is at least one word that occurs exactly `n` times.
+
+  - Print `0` otherwise.
+
+Example:
+
+Input:
+
+apple orange apple banana orange banana banana
+
+2
+
+Output:
+
+1

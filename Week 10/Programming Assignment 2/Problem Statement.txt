@@ -1,0 +1,14 @@
+Week 10: Programming Assignment 2
+
+Question:
+Write a program that accepts a string of space-separated float numbers. The program should print the number of long tail numbers, where a float number is said to have a long tail if the number of digits after the decimal point is greater than the number of digits before the decimal point.
+
+Input Format:
+The input consists of a single line containing space-separated float numbers.
+Output Format:
+A single integer representing the number of long tail numbers.
+Example:
+Input:
+12.3214 123.56 3.14159 100.1 45.6789
+Output:
+3

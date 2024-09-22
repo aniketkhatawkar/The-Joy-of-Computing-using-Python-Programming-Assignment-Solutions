@@ -1,0 +1,22 @@
+Week 9: Programming Assignment 3
+
+Write a function that takes an integer n representing the number of nodes in a complete graph and returns the total number of edges in the graph.
+
+A complete graph is a graph in which every pair of distinct nodes is connected by a unique edge.
+
+
+Input Format:
+
+The input consists of a single integer n which represents the number of nodes in the complete graph.
+
+Output Format:
+
+A single integer representing the total number of edges in the complete graph of n nodes.
+
+Example:
+
+Input:
+4
+
+Output:
+6

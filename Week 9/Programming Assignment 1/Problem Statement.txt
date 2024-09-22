@@ -1,0 +1,21 @@
+Week 9: Programming Assignment 1
+
+Write a function that takes a string and counts the number of vowels in it. The function should return the total number of vowels.
+
+Input Format:
+
+The input consists of a single string. The string can contain both uppercase and lowercase letters, as well as spaces and punctuation marks.
+
+Output Format:
+
+A single integer representing the total number of vowels in the string.
+
+Example:
+
+Input:
+
+Hello, World!
+
+Output:
+
+3

@@ -1,0 +1,21 @@
+Week 9: Programming Assignment 2
+
+Write a function that takes a string and determines if the average length of the words in the string is greater than 4. If the average word length is greater than 4, the function should return 1; otherwise, it should return 0.
+
+Input Format:
+
+The input consists of a single string. The string contains words separated by spaces.
+
+Output Format:
+
+A single integer: 1 if the average word length is greater than 4, 0 otherwise.
+
+Example:
+
+Input:
+
+The quick brown fox jumps over the lazy dog
+
+Output:
+
+0
