@@ -1,0 +1,29 @@
+Week 11: Programming Assignment 3
+
+Question:
+You are given a specific mapping between random lowercase alphabet letters and digits. Your task is to decode a date provided in the format `DD-MM-YYYY`,
+\ where each digit is represented by a corresponding letter, and convert it back to its standard decimal format.
+
+The mapping is as follows:
+a → 0
+k → 1
+x → 2
+y → 3
+s → 4
+m → 5
+b → 6
+d → 7
+p → 8
+z → 9
+
+Input Format:
+- A single line containing a date in the format `DD-MM-YYYY`, where each digit is encoded using the given letter-to-number mapping.
+
+Output Format:
+- A single line containing the decoded date in standard `DD-MM-YYYY` format.
+
+Example:
+Input:
+mk-ya-kzma
+Output:
+15-03-1750

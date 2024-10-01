@@ -1,0 +1,21 @@
+Week 11: Programming Assignment 2
+
+Question:
+Write a program that accepts a sequence of numbers separated by colons as input, 
+and prints the common factors of all the numbers in ascending order.
+
+Input Format:
+The input consists of a single line.
+
+The line contains a sequence of integers separated by colons.
+
+Output Format:
+Print the common factors of all the numbers, separated by spaces, in ascending order.
+
+Example:
+Input:
+
+12:18:24
+
+Output:
+1 2 3 6

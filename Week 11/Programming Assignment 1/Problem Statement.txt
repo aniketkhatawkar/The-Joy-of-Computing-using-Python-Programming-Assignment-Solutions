@@ -1,0 +1,27 @@
+Week 11: Programming Assignment 1
+
+Question:
+
+Write a program that accepts a date in MM/DD/YYYY format as input and prints the date in DD-MM-YY format. 
+The program should retain only the last two digits of the year, 
+replace the forward slash (/) with a dash (-), and swap the order of the month and date.
+
+Input Format:
+
+The input consists of a single line.
+
+The line contains a date string in MM/DD/YYYY format.
+Output Format:
+
+A single string in DD-MM-YY format.
+
+Print the date with the day and month swapped, the year truncated to the last two digits, and all separators replaced by dashes (-).
+Example:
+
+Input:
+
+12/25/2024
+
+Output:
+
+25-12-24
