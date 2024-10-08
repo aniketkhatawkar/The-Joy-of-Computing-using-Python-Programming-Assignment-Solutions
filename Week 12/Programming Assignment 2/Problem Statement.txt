@@ -1,0 +1,24 @@
+Week 12: Programming Assignment 2
+
+Question:
+There are `n` people who start in a happy state. The following rules determine how people move between states after each iteration:
+- A person in the happy state has a 70% chance of moving to a sad state, and a 30% chance of staying in the happy state.
+- A person in the sad state has a 50% chance of moving to a happy state, and a 50% chance of staying in the sad state.
+
+Write a program that computes the number of people in the happy and sad states after 3 iterations.
+Input Format:
+A single integer `n` representing the number of people who start in the happy state.
+Output Format:
+Two integers separated by a space, where the first integer is the number of people in the happy state and the second is the number of people in the sad state after the 3rd iteration.
+Example:
+Input:
+1000
+
+Output:
+412 588
+
+Explanation:
+State 0: 1000 0
+State 1: 300 700
+State 2: 440 560
+State 3: 412 588

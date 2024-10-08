@@ -1,0 +1,17 @@
+Week 12: Programming Assignment 3
+
+Problem Statement:
+Write a program that accepts a positive integer n and prints the sum of all prime numbers in the range [1, n], including both endpoints. 
+If there are no prime numbers in the given range, the program should print 0.
+
+Input Format:
+A single integer n, representing the upper limit of the range.
+Output Format:
+A single integer representing the sum of all prime numbers in the range [1, n]. If no prime numbers are found, output 0.
+Example:
+Input:
+10
+Output:
+17
+Explanation:
+The prime numbers between 1 and 10 are 2, 3, 5, and 7. Their sum is 2 + 3 + 5 + 7 = 17.

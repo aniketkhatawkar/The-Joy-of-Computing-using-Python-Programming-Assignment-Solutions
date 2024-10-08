@@ -1,0 +1,24 @@
+Week 12: Programming Assignment 1
+
+Question:
+Write a recursive function named collatz that accepts a positive integer n as an argument, where 1 < n ≤ 32,000, 
+and returns the number of times the Collatz function has to be applied repeatedly in order to first reach 1.
+
+The Collatz function is defined as follows:
+
+If n is even, divide n by 2.
+If n is odd, multiply n by 3 and add 1.
+The function should continue applying this process until n becomes 1, and return the number of steps taken.
+
+Input Format:
+A single integer n where 1 < n ≤ 32,000.
+
+Output Format:
+A single integer representing the number of steps required for n to reach 1.
+
+Example:
+Input:
+12
+
+Output:
+9
